@@ -139,7 +139,7 @@ The following snippet turns on solaire-mode support.
 <br/>
 
 
-Copyright© 2020-2023 Ian Y.E. Pan
+Copyright© 2020-2026 Ian Y.E. Pan
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
